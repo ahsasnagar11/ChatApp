@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "919070490834",
+    "firebase_url": "https://mytalkapp-6c287-default-rtdb.firebaseio.com",
+    "project_id": "mytalkapp-6c287",
+    "storage_bucket": "mytalkapp-6c287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919070490834:android:d82f622577b49429e2ad0b",
+        "android_client_info": {
+          "package_name": "com.example.mytalkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919070490834-dr3tgjb1h1qk5bpncgbs308qma8oplpf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mytalkapp",
+            "certificate_hash": "93bb1e544ec183044dae6fbc19059b2453541c96"
+          }
+        },
+        {
+          "client_id": "919070490834-ga0dp1qasim59rn32c2a0mr3vg27m4m1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsTX05wf6F6TKhHjD4xQygaNhbO9vHcz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919070490834-ga0dp1qasim59rn32c2a0mr3vg27m4m1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
